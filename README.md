@@ -6,7 +6,7 @@ This repository is where I refactored the Horiseon website to improve SEO via se
 
 ## Horiseon
 
-<img src="./assets/images/Horiseon-screenshot.png">
+<img alt="Horiseon final product image" src="https://user-images.githubusercontent.com/86434738/128603471-83f83530-4f40-4652-83be-802435076a64.png">
 
 ## Installation
 
