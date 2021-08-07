@@ -2,11 +2,13 @@
 
 ## The Repository
 
-This repository is where I refactored the Horiseon website to improve SEO via semantic HTML tags, add comments to the HTML and CSS, remove duplicative CSS, and other miscellaneous improvments.
+This repository is where I refactored the HTML and CSS code for the Horiseon website to improve SEO via semantic HTML tags, add comments to the HTML and CSS, remove duplicative CSS, and other miscellaneous improvements. This chellenge was crucial to improving my understanding of HTML, CSS, and creating professional READMEs. This challenge forced me to think of HTML elements as a way of improving search engine optimzation (SEO) and communicating the type of content included in the elements (e.g. <section> instead of <div>).
 
 ## Horiseon
 
 <img alt="Horiseon final product image" src="https://user-images.githubusercontent.com/86434738/128603471-83f83530-4f40-4652-83be-802435076a64.png">
+
+The finished Horiseon website.
 
 ## Installation
 
@@ -18,6 +20,7 @@ My Github page: [link](github.com/ggamb)
 
 ## License
 
+<!--Free softwarelicense language from https://www.mit.edu/~amini/LICENSE.md-->
 MIT License
 
 Copyright (c) [2021] [Glenn Gambardella]
