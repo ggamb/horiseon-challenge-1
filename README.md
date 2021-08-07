@@ -1,8 +1,12 @@
 # Horiseon Challenge 1
 
+![GitHub followers](https://img.shields.io/github/followers/ggamb?style=social)
+![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome)
+![GitHub User's stars](https://img.shields.io/github/stars/ggamb?style=social)
+
 ## The Repository
 
-This repository is where I refactored the HTML and CSS code for the Horiseon website to improve SEO via semantic HTML tags, add comments to the HTML and CSS, remove duplicative CSS, and other miscellaneous improvements. This chellenge was crucial to improving my understanding of HTML, CSS, and creating professional READMEs. This challenge forced me to think of HTML elements as a way of improving search engine optimzation (SEO) and communicating the type of content included in the elements (e.g. <section> instead of <div>).
+This repository is where I refactored the HTML and CSS code for the Horiseon website to improve SEO via semantic HTML tags, added comments to the HTML and CSS, removed duplicative CSS, and made other miscellaneous improvements. This chellenge was crucial to improving my understanding of HTML, CSS, and creating professional READMEs. This challenge forced me to think of HTML elements as a way of improving search engine optimzation (SEO) and communicating the type of content included in the elements (e.g. the section element instead of the div element).
 
 ## Horiseon
 
@@ -17,6 +21,8 @@ Click the following link: [link](https://ggamb.github.io/horiseon-challenge-1/)
 ## Credits 
 
 My Github page: [link](github.com/ggamb)
+
+Credit to: UT Coding Bootcamp for providing the original code that I refactored
 
 ## License
 
