@@ -12,7 +12,7 @@ This repository is where I refactored the HTML and CSS code for the Horiseon web
 
 <img alt="Horiseon final product image" src="https://user-images.githubusercontent.com/86434738/128603471-83f83530-4f40-4652-83be-802435076a64.png">
 
-The finished Horiseon website.
+The finished product.
 
 ## Installation
 
