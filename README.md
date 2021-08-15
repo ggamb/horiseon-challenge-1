@@ -16,11 +16,11 @@ The finished product.
 
 ## Installation
 
-Click the following link: [link](https://ggamb.github.io/horiseon-challenge-1/)
+Click the following link: ![link](https://ggamb.github.io/horiseon-challenge-1/)
 
 ## Credits 
 
-My Github page: [link](github.com/ggamb)
+My Github page: ![link](https://github.com/ggamb)
 
 Credit to: UT Coding Bootcamp for providing the original code that I refactored
 
